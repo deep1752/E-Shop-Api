@@ -154,21 +154,3 @@ def delete_user(db: Session, user_id: int):
 
 
 
-
-
-
-
-
-
-git config --global user.email "deepakkumawat1752@gmail.com"
-git config --global user.name "deep1752"
-
-
-
-
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/deep1752/e-shop.git
-git push -u origin main
