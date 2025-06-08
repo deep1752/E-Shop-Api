@@ -34,9 +34,5 @@ email-validator
 pydantic-settings
 python-multipart
 
-pip install python-slugify
-
-
+# Slugify Support
 python-slugify
-
-
