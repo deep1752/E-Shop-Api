@@ -149,8 +149,3 @@ def delete_user(db: Session, user_id: int):
         db.commit()  # Commit the transaction to remove the user
     return db_user  # Return the deleted user object (or None if not found)
 
-
-
-
-
-
