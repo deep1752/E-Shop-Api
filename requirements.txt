@@ -36,3 +36,7 @@ python-multipart
 
 # Slugify Support
 python-slugify
+
+
+
+databases
